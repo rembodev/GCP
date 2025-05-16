@@ -1,4 +1,3 @@
 Hello my name is .....
-I´m Junior Developer
-\n
+I´m Junior Developer,
 Practicando Git 
